@@ -1,0 +1,9 @@
+name: "Avail"
+description: "Landlord software for rental listings, tenant screening, and rent collection. It is designed for independent landlords. A freemium plan is available."
+source_url: "https://www.avail.co/"
+category: "Tenant & Landlord Apps"
+tags:
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/www.avail.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.avail.co/>\n"
+updated_at: "2026-11-21 20:41"

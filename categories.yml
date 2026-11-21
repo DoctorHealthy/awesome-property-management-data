@@ -1,0 +1,12 @@
+- id: residential-property-management
+  name: "Residential Property Management"
+- id: commercial-property-management
+  name: "Commercial Property Management"
+- id: short-term-and-vacation-rentals
+  name: "Short-Term & Vacation Rentals"
+- id: hoa-and-community-management
+  name: "HOA & Community Management"
+- id: open-source
+  name: "Open Source"
+- id: tenant-and-landlord-apps
+  name: "Tenant & Landlord Apps"

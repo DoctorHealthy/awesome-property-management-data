@@ -1,0 +1,11 @@
+name: "Odoo"
+description: "Open source ERP with property management modules. It can be self-hosted or cloud-based. It is licensed under LGPL."
+source_url: "https://www.odoo.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.odoo.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.odoo.com/>\n- Repository: <https://github.com/odoo/odoo>\n\nLicense: LGPL.\n"
+updated_at: "2026-11-21 20:41"

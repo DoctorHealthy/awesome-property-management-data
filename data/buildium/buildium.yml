@@ -1,0 +1,10 @@
+name: "Buildium"
+description: "Property management solution for residential rental portfolios and HOAs. Features include online rent collection, maintenance tracking, and accounting. It operates on a paid subscription model."
+source_url: "https://www.buildium.com/"
+category: "Residential Property Management"
+tags:
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.buildium.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.buildium.com/>\n"
+updated_at: "2026-11-21 20:41"

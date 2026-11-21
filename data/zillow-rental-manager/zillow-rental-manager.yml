@@ -1,0 +1,9 @@
+name: "Zillow Rental Manager"
+description: "Tool for listing rentals and screening tenants on Zillow. It allows landlords to collect applications and reports. It offers free and paid options."
+source_url: "https://www.zillow.com/rental-manager"
+category: "Tenant & Landlord Apps"
+tags:
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zillow.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zillow.com/rental-manager>\n"
+updated_at: "2026-11-21 20:41"

@@ -1,0 +1,9 @@
+name: "Rentec Direct"
+description: "Property management and accounting software for landlords. It includes tenant screening and online payments. It is a paid service."
+source_url: "https://www.rentecdirect.com/"
+category: "Residential Property Management"
+tags:
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.rentecdirect.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.rentecdirect.com/>\n"
+updated_at: "2026-11-21 20:41"

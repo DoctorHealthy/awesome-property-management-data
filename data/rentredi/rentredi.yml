@@ -1,0 +1,10 @@
+name: "RentRedi"
+description: "Landlord and tenant app for managing rental properties. It includes rent collection, tenant screening, and maintenance requests. Pricing is paid per unit."
+source_url: "https://www.rentredi.com/"
+category: "Tenant & Landlord Apps"
+tags:
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.rentredi.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.rentredi.com/>\n"
+updated_at: "2026-11-21 20:41"

@@ -1,0 +1,10 @@
+name: "TenantCloud"
+description: "Free and paid property management software for landlords and tenants. It supports rent payments, leasing, and accounting. A freemium model is available."
+source_url: "https://www.tenantcloud.com/"
+category: "Tenant & Landlord Apps"
+tags:
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.tenantcloud.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.tenantcloud.com/>\n"
+updated_at: "2026-11-21 20:41"

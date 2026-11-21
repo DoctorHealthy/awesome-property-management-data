@@ -1,0 +1,11 @@
+name: "Yardi"
+description: "Enterprise-grade software for commercial and residential real estate investment and management. It provides investment management, operations, and leasing tools. Pricing is typically enterprise-level."
+source_url: "https://www.yardi.com/"
+category: "Commercial Property Management"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.yardi.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.yardi.com/>\n"
+updated_at: "2026-11-21 20:41"

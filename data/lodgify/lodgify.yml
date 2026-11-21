@@ -1,0 +1,9 @@
+name: "Lodgify"
+description: "Website builder and channel manager for vacation rentals. It helps hosts create direct booking sites. It is a paid service."
+source_url: "https://www.lodgify.com/"
+category: "Short-Term & Vacation Rentals"
+tags:
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.lodgify.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.lodgify.com/>\n"
+updated_at: "2026-11-21 20:41"
